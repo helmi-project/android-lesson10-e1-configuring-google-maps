@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lesson10_E1_ConfiguringGoogleMaps</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAq_i_MVOzZ_1xMlKpFI-DpDfY6KNCHRCk</string>
+</resources>
